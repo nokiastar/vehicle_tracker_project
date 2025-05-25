@@ -1,0 +1,7 @@
+vehicle_tracker_project/
+    README.md
+    script.js
+    vehicle_service_tracker.sql
+    dashboard/
+        grafana_screenshot.png
+    .gitignore
